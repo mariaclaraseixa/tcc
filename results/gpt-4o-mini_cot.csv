@@ -1,0 +1,201 @@
+id,language,true_label,model,strategy,prediction,confidence,explanation
+0,Python,ai,gpt-4o-mini,cot,human,7,"The use of the old-style print statement without parentheses and the string formatting method indicates a personal coding style that is less common in modern Python, suggesting human authorship."
+1,Python,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed; the code is structurally clean and lacks any personal annotations or idiosyncrasies.
+2,Python,ai,gpt-4o-mini,cot,human,7,"The code snippet contains a non-English comment ('N=#{i}') and uses a Ruby-style block with 'times', which suggests a personal coding style. Additionally, the use of mixed indentation and formatting indicates a human touch."
+3,Python,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed; the code is clean and follows a uniform structure without any personal annotations or idiosyncrasies.
+4,Python,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+5,Python,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+6,Python,ai,gpt-4o-mini,cot,ai,7,"No human fingerprints observed. The code is structurally clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+7,Python,ai,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, and the structure is clean and uniform, suggesting it is AI-generated."
+8,Python,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+9,Python,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed; the code is structurally clean and lacks personal annotations or idiosyncrasies.
+10,Python,ai,gpt-4o-mini,cot,ai,6,no human fingerprints observed
+11,Python,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or informal comments that would indicate human authorship."
+12,Python,ai,gpt-4o-mini,cot,ai,7,"No human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or informal comments that would indicate human authorship."
+13,Python,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+14,Python,ai,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, and it exhibits a clean, uniform structure typical of AI-generated code."
+15,Python,ai,gpt-4o-mini,cot,human,7,"The code snippet contains a dated annotation '#, July 2nd, 2015', which indicates a specific point in time and suggests human authorship."
+16,Python,ai,gpt-4o-mini,cot,human,7,"The code snippet contains a comment that describes the functionality of the code, which is a common practice among human authors. Additionally, the formatting and style show some personal touch, such as the use of string formatting in the print statement."
+17,Python,ai,gpt-4o-mini,cot,ai,6,no human fingerprints observed
+18,Python,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or informal comments that would indicate human authorship."
+19,Python,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+20,Python,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks any personal annotations, comments, or idiosyncrasies that would indicate human authorship."
+21,Python,ai,gpt-4o-mini,cot,human,7,"The comment '# Enqueue.' and '# Dequeue.' indicate personal annotations that suggest a human touch, reflecting a lived experience in coding."
+22,Python,ai,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, and it exhibits a clean, uniform structure typical of AI-generated code."
+23,Python,ai,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, and the structure is clean and uniform, suggesting it is AI-generated."
+24,Python,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or informal comments that would indicate human authorship."
+25,Python,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks any personal annotations, comments, or idiosyncrasies."
+26,Python,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+27,Python,ai,gpt-4o-mini,cot,human,7,"The code snippet contains a version annotation '# version 1.1.2', which indicates a human touch in the form of versioning. Additionally, the use of a comment to describe the purpose of the code suggests a personal touch."
+28,Python,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks any personal annotations, idiosyncrasies, or informal comments."
+29,Python,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+30,Python,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks personal annotations, idiosyncrasies, or debugging artifacts."
+31,Python,ai,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, and the structure is clean and uniform, suggesting it is AI-generated."
+32,Python,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks any personal annotations, comments, or idiosyncrasies typical of human-written code."
+33,Python,ai,gpt-4o-mini,cot,ai,7,"No human fingerprints were found; the code is clean and lacks personal annotations, idiosyncrasies, or informal comments."
+34,Python,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+35,Python,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+36,Python,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed; the code is clean and follows a uniform style without any personal annotations or idiosyncrasies.
+37,Python,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed; the code is structurally clean and lacks personal annotations or idiosyncrasies.
+38,Python,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+39,Python,ai,gpt-4o-mini,cot,ai,7,"No human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or debugging artifacts."
+40,Python,ai,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, and it exhibits a clean, uniform structure typical of AI-generated code."
+41,Python,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks personal annotations, idiosyncrasies, or debugging artifacts."
+42,Python,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+43,Python,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+44,Python,ai,gpt-4o-mini,cot,human,7,"The code contains informal comments such as 'I can't guess it. Perhaps you changed your number.' and 'Please tell me if I am ""high"", ""low"" or ""right"".', which suggest a personal touch and idiosyncratic style."
+45,Python,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or informal comments."
+46,Python,ai,gpt-4o-mini,cot,human,7,"The code contains a creation date in the comment header ('Created on Tue Mar 23 15:00:00 2021'), which is a clear human fingerprint. Additionally, the author field is present but empty, suggesting a personal touch."
+47,Python,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks personal annotations, idiosyncrasies, or debugging artifacts."
+48,Python,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks any personal annotations, comments, or idiosyncrasies typical of human-written code."
+49,Python,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks any personal annotations, comments, or idiosyncrasies typical of human-written code."
+50,Python,human,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+51,Python,human,gpt-4o-mini,cot,human,7,"The code contains a commented-out alternative implementation using 'collections.Counter', which suggests experimentation and debugging typical of human authorship."
+52,Python,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+53,Python,human,gpt-4o-mini,cot,human,8,"The presence of REPL/interactive artifacts, specifically the '>>>' prompts, indicates a human-authored code snippet."
+54,Python,human,gpt-4o-mini,cot,human,8,"The presence of REPL/interactive artifacts, indicated by the '>>>' prompts, suggests that this code was executed in an interactive environment, which is a strong fingerprint of human authorship."
+55,Python,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code snippet is clean and lacks personal annotations, idiosyncrasies, or debugging artifacts typical of human-written code."
+56,Python,human,gpt-4o-mini,cot,ai,7,no human fingerprints observed; the code is structurally clean and lacks personal annotations or idiosyncrasies.
+57,Python,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+58,Python,human,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, and it exhibits a clean, uniform structure typical of AI-generated code."
+59,Python,human,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, indicating a clean and uniform style typical of AI-generated code."
+60,Python,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks any personal annotations, comments, or idiosyncratic style."
+61,Python,human,gpt-4o-mini,cot,human,8,"Human fingerprints observed include REPL/interactive artifacts (the '>>>' prompts) and a personal comment ('# The following is not normally done'), indicating a human touch in the code."
+62,Python,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks any personal annotations, comments, or idiosyncratic style."
+63,Python,human,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, as it lacks personal annotations, idiosyncratic styles, or any debugging artifacts. The structure appears uniform and clean, typical of AI-generated code."
+64,Python,human,gpt-4o-mini,cot,human,8,"The presence of REPL/interactive artifacts such as '>>>' indicates that this code was likely executed in an interactive environment, suggesting human authorship."
+65,Python,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks personal annotations, idiosyncrasies, or debugging artifacts."
+66,Python,human,gpt-4o-mini,cot,human,7,"The code contains a commented-out experimental line (#show_spiral(1001, symbol='*', start=42)), which indicates a personal touch and experimentation typical of human authorship."
+67,Python,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks any personal annotations, idiosyncrasies, or informal comments that would indicate human authorship."
+68,Python,human,gpt-4o-mini,cot,ai,7,No human fingerprints were found; the code is clean and follows a uniform style without personal annotations or idiosyncrasies.
+69,Python,human,gpt-4o-mini,cot,human,7,"The code contains a commented-out line that suggests a personal touch: '# show cordinates in title', indicating a human author's thought process. Additionally, there are minor typos such as 'cordinates' which are typical of human-written code."
+70,Python,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+71,Python,human,gpt-4o-mini,cot,human,8,"The presence of REPL/interactive artifacts such as '>>>' indicates that this code was likely executed in an interactive environment, suggesting human authorship."
+72,Python,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+73,Python,human,gpt-4o-mini,cot,ai,7,"No human fingerprints were found; the code is clean and lacks personal annotations, idiosyncratic styles, or debugging artifacts."
+74,Python,human,gpt-4o-mini,cot,ai,7,"No human fingerprints were found; the code is structurally clean and lacks personal annotations, idiosyncrasies, or informal comments."
+75,Python,human,gpt-4o-mini,cot,ai,6,no human fingerprints observed
+76,Python,human,gpt-4o-mini,cot,ai,7,"No human fingerprints were found; the code is clean and lacks personal annotations, idiosyncratic styles, or debugging artifacts."
+77,Python,human,gpt-4o-mini,cot,ai,7,No human fingerprints were found; the code is clean and follows a uniform style without personal annotations or idiosyncrasies.
+78,Python,human,gpt-4o-mini,cot,ai,6,no human fingerprints observed
+79,Python,human,gpt-4o-mini,cot,ai,7,"No human fingerprints were found, and the code exhibits a clean, uniform structure typical of AI-generated code."
+80,Python,human,gpt-4o-mini,cot,human,7,"The commented-out experimental code in the 'farey' function, specifically '#return 1 + len(...)', indicates a human touch, suggesting debugging or experimentation."
+81,Python,human,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+82,Python,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, inconsistent styles, or any other markers indicative of human authorship."
+83,Python,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or informal comments that would indicate human authorship."
+84,Python,human,gpt-4o-mini,cot,human,7,"The code contains commented-out experimental code and personal annotations, such as the comment about the 'root' variable in the Node class, which suggests a human touch in the coding process."
+85,Python,human,gpt-4o-mini,cot,ai,7,"No human fingerprints observed; the code snippet is clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+86,Python,human,gpt-4o-mini,cot,ai,7,"No human fingerprints were found; the code is structurally clean and lacks personal annotations, idiosyncrasies, or informal comments."
+87,Python,human,gpt-4o-mini,cot,human,9,"The presence of the REPL prompt '>>>' indicates a human-authored code snippet, as it reflects an interactive session typical of debugging or experimentation."
+88,Python,human,gpt-4o-mini,cot,ai,7,"No human fingerprints were found; the code is clean and lacks personal annotations, idiosyncrasies, or informal comments."
+89,Python,human,gpt-4o-mini,cot,human,7,"The code contains a commented-out line with a hardcoded local path (e.g., 'print') and uses inconsistent indentation and spacing, which are indicative of human authorship."
+90,Python,human,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, and it exhibits a clean, uniform structure typical of AI-generated code."
+91,Python,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and uniform without any personal annotations, idiosyncrasies, or debugging artifacts."
+92,Python,human,gpt-4o-mini,cot,ai,7,"No human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncratic styles, or debugging artifacts."
+93,Python,human,gpt-4o-mini,cot,unknown,50,parse_error
+94,Python,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks personal annotations, idiosyncrasies, or informal comments that would indicate human authorship."
+95,Python,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks personal annotations, idiosyncrasies, or informal comments that would indicate human authorship."
+96,Python,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks personal annotations, idiosyncrasies, or debugging artifacts."
+97,Python,human,gpt-4o-mini,cot,human,7,"The code contains a commented-out test section with a specific assertion and a print statement that suggests personal testing, indicating a human touch. Additionally, the function name 'egyptian_divmod' reflects a unique naming choice that is less typical of AI-generated code."
+98,Python,human,gpt-4o-mini,cot,ai,7,no human fingerprints observed; the code is clean and follows a uniform style without any personal annotations or idiosyncrasies.
+99,Python,human,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, and it exhibits a clean, uniform structure typical of AI-generated code."
+100,C,ai,gpt-4o-mini,cot,human,7,"The code snippet contains a version annotation ('// version 1.1.2'), which is a clear human fingerprint indicating authorship and versioning."
+101,C,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+102,C,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+103,C,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or debugging artifacts."
+104,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+105,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+106,C,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks any personal annotations, comments, or idiosyncratic style."
+107,C,ai,gpt-4o-mini,cot,human,7,"The code snippet contains a version annotation '// version 1.1.4-3', which indicates a human touch in the form of versioning, suggesting an evolving understanding or personal habit."
+108,C,ai,gpt-4o-mini,cot,human,7,"The code snippet contains a version annotation at the top ('// version 1.1.0'), which indicates a human touch in the form of versioning, suggesting an evolving understanding or debugging process."
+109,C,ai,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, indicating a lack of personal style or debugging artifacts. The code is structurally clean and uniform, suggesting it is AI-generated."
+110,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+111,C,ai,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, and the structure is clean and uniform, typical of AI-generated code."
+112,C,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+113,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+114,C,ai,gpt-4o-mini,cot,ai,6,no human fingerprints observed
+115,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+116,C,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or debugging artifacts."
+117,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed; the code is structurally clean and lacks personal annotations or idiosyncrasies.
+118,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed; the code is structurally clean and lacks personal annotations or idiosyncrasies.
+119,C,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or debugging artifacts."
+120,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+121,C,ai,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, and it exhibits a clean, uniform structure typical of AI-generated code."
+122,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed; the code is structurally clean and lacks personal annotations or idiosyncrasies.
+123,C,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+124,C,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or debugging artifacts."
+125,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+126,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+127,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+128,C,ai,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, as it lacks personal annotations, idiosyncratic styles, or any debugging artifacts."
+129,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+130,C,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks any personal annotations, comments, or idiosyncrasies typical of human-written code."
+131,C,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks any personal annotations, comments, or idiosyncrasies."
+132,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+133,C,ai,gpt-4o-mini,cot,human,7,"The code contains a commented-out section that indicates a debugging or experimental approach, as seen in the 'showSteps' parameter and the associated printf statements. This suggests a human touch in the coding process."
+134,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+135,C,ai,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, as it lacks personal annotations, idiosyncratic styles, or any debugging artifacts. The code is clean and follows a uniform structure typical of AI-generated code."
+136,C,ai,gpt-4o-mini,cot,human,7,"The code snippet contains a version annotation ('// version 1.1.2'), which is a clear human fingerprint indicating authorship and versioning."
+137,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+138,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+139,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+140,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+141,C,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code snippet is structurally clean and lacks any personal annotations, comments, or idiosyncrasies typical of human-written code."
+142,C,ai,gpt-4o-mini,cot,human,7,"The code contains comments that reflect personal insights and explanations, such as the note about using 'volatile' to prevent compiler optimizations, which suggests a human touch. Additionally, the comment about 'TPS Report' is informal and indicative of a personal style."
+143,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+144,C,ai,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+145,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+146,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+147,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+148,C,ai,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, and it exhibits a clean, uniform structure typical of AI-generated code."
+149,C,ai,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+150,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks personal annotations, idiosyncratic styles, or any debugging artifacts."
+151,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+152,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or debugging artifacts."
+153,C,human,gpt-4o-mini,cot,human,7,"The code contains comments that reflect personal insights and potential debugging experiences, such as 'pretty sure there's an off-by-one bug here somewhere' and 'nonsensical hyphens to make greedy wrapping method look bad', indicating a human touch."
+154,C,human,gpt-4o-mini,cot,human,7,"The code contains personal comments such as 'We now come to goto, it's extremely powerful but it's also prone to misuse. Its use is discouraged and it wasn't even adopted by Java and later languages.' which reflect a human perspective and understanding of programming practices."
+155,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks personal annotations, idiosyncrasies, or informal comments that would indicate human authorship."
+156,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or informal comments that would indicate human authorship."
+157,C,human,gpt-4o-mini,cot,human,7,"The code contains comments that explain specific decisions made in the implementation, such as the choice to request only one socket type from getaddrinfo and the use of NI_NUMERICHOST, indicating a personal touch and understanding of the code's purpose."
+158,C,human,gpt-4o-mini,cot,ai,7,"No human fingerprints were found; the code is structurally clean and lacks personal annotations, idiosyncrasies, or informal comments."
+159,C,human,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, and the structure is clean and uniform, suggesting it is AI-generated."
+160,C,human,gpt-4o-mini,cot,human,7,"The code contains a version definition (# v0.6) and several commented sections that suggest a personal touch, such as the use of informal comments like '# directions' and '# initial direction', indicating a human author's thought process."
+161,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks any personal annotations, comments, or idiosyncratic styles that would indicate human authorship."
+162,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+163,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or debugging artifacts."
+164,C,human,gpt-4o-mini,cot,ai,7,no human fingerprints observed; the code is structurally clean and lacks personal annotations or idiosyncrasies.
+165,C,human,gpt-4o-mini,cot,human,7,"The code contains comments that reference external sources and provide context about the algorithm and file format, which suggests a personal touch and understanding of the subject matter. Additionally, the comment about the color component being coded from 0 to 255 indicates a level of detail that is often found in human-written code."
+166,C,human,gpt-4o-mini,cot,human,7,"The comment '// array bounds is sort of random here, it's big enough for 64bit unsigned.' indicates a personal touch and informal reasoning, suggesting human authorship."
+167,C,human,gpt-4o-mini,cot,human,7,"The code contains idiosyncratic style elements, such as the use of a macro with a specific format and the commented-out debug prints in the form of printf statements, which suggest a personal touch in the coding style."
+168,C,human,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+169,C,human,gpt-4o-mini,cot,human,7,"The code contains commented-out experimental code and a hardcoded local path in the comment 'pesky 3', which suggests a personal touch and debugging experience typical of human authorship."
+170,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks any personal annotations, comments, or idiosyncrasies."
+171,C,human,gpt-4o-mini,cot,human,7,"The comment '//the zodiac cycle didnt start until 4 CE, so years <4 shouldnt be valid' reflects a personal insight and reasoning that suggests human authorship."
+172,C,human,gpt-4o-mini,cot,human,7,"The code contains comments that provide context and explanations about the functionality, such as 'These are global variables of this process' and 'The reader cothread reads every line of an input file', which suggest a human touch in explaining the code's purpose."
+173,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+174,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or debugging artifacts."
+175,C,human,gpt-4o-mini,cot,ai,6,no human fingerprints observed
+176,C,human,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+177,C,human,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, as it lacks personal annotations, idiosyncratic style, or any debugging artifacts. The structure is clean and uniform, typical of AI-generated code."
+178,C,human,gpt-4o-mini,cot,ai,6,no human fingerprints observed
+179,C,human,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+180,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or informal comments."
+181,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or debugging artifacts."
+182,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code snippet is structurally clean and lacks any personal annotations, comments, or idiosyncrasies typical of human-written code."
+183,C,human,gpt-4o-mini,cot,ai,7,"No human fingerprints were found; the code is structurally clean and lacks personal annotations, idiosyncrasies, or debugging artifacts."
+184,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or debugging artifacts."
+185,C,human,gpt-4o-mini,cot,human,7,"The code contains comments that reference external sources and provide context, such as 'technique of creating ppm file is based on the code of Claudio Rocchini' and URLs, which suggest a personal touch and lived experience in the coding process."
+186,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or debugging artifacts."
+187,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or informal comments that would indicate human authorship."
+188,C,human,gpt-4o-mini,cot,human,7,"The code contains commented-out experimental code (the line with 'wchar_t s_suits[] = L""\x2660\x2665\x2666\x2663"";'), which suggests a debugging or development process typical of human authorship."
+189,C,human,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+190,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks personal annotations, idiosyncrasies, or informal comments."
+191,C,human,gpt-4o-mini,cot,ai,7,"No human fingerprints were found in the code snippet, and the structure appears clean and uniform, suggesting it is AI-generated."
+192,C,human,gpt-4o-mini,cot,human,7,"The code contains comments that reflect personal insights and explanations, such as the note about using 'volatile' to prevent compiler optimizations, which suggests a human touch in understanding and conveying the rationale behind the code."
+193,C,human,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+194,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is clean and lacks any personal annotations, idiosyncrasies, or debugging artifacts."
+195,C,human,gpt-4o-mini,cot,ai,7,no human fingerprints observed
+196,C,human,gpt-4o-mini,cot,ai,7,"no human fingerprints observed; the code is structurally clean and lacks any personal annotations, comments, or idiosyncratic style."
+197,C,human,gpt-4o-mini,cot,human,7,"The code contains a specific error message: 'There aren't 7 days in line %d', which suggests a personal touch in handling input validation. Additionally, the use of 'goto' for control flow is an idiosyncratic choice that is less common in AI-generated code."
+198,C,human,gpt-4o-mini,cot,human,7,"The code contains commented-out experimental code (e.g., '/* day_t year_day, */') and a TODO comment ('/* todo: eliminate loops, handle year <== 1752 */'), which are indicative of human fingerprints."
+199,C,human,gpt-4o-mini,cot,human,7,"The code contains comments that reflect a deep understanding of signal handling and division by zero, indicating personal experience. Additionally, the comment style is somewhat informal and includes specific technical details that suggest a human author."
