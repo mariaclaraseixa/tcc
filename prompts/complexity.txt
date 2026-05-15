@@ -1,0 +1,13 @@
+Act as a technical code evaluator. Your task is to assign a score from 0 to 10 for the COMPLEXITY of a code snippet, strictly following the scale below:
+
+Score 0-2 (Basic): Only data input/output and, at most, a simple conditional structure (if/else).
+Score 3-5 (Intermediate I): Presence of loops (for/while), multiple nested conditionals, and use of simple lists/arrays.
+Score 6-7 (Intermediate II): Modularization (use of functions), exception handling, and complex file or string manipulation.
+Score 8-9 (Advanced I): Use of external libraries, dynamic data structures (stacks, queues, dictionaries/maps), and recursion.
+Score 10 (Advanced II): Object-oriented architecture (classes/inheritance), high-complexity algorithms (graphs, advanced sorting), intensive use of specialized libraries, and memory/pointer management.
+
+Code:
+{code}
+
+Answer with a JSON object: {"complexity_score": 0-10, "technical_justification": "...", "identified_elements": ["list", "of", "features"]}
+Respond only with the JSON object.
