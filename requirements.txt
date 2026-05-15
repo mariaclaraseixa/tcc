@@ -1,0 +1,13 @@
+datasets
+pandas
+scikit-learn
+tqdm
+openai
+anthropic
+google-genai
+python-dotenv
+matplotlib
+seaborn
+pytest
+pytest-mock
+pytest-cov
